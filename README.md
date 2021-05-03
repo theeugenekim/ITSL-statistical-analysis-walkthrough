@@ -17,4 +17,4 @@ StatsModels
 Extras:
 Holoviews
 
-This repo only consists of the coding portions. I have not included the conceptual excercises yet for time it would take to transfer my drawings and theortical graphs to structured PDF. But you can always reach out to discuss if you need help. These took me some time to reproduce, but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. Also, a collection of all required datasets is provided in .csv format.
+This repo only consists of the coding portions. I have not included the conceptual excercises yet for time as they are all in my study notebook for now. But you can always reach out to discuss if you need help. These took me some time to reproduce, but the implementation details are not essential to the concepts taught in the book so please feel free to reuse. Also, a collection of all required datasets is provided in .csv format.
